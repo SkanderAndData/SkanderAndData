@@ -6,7 +6,7 @@ My professional background includes Financial Business Data Analysis📉<br>
 <br>I am fascinated by uncovering insights that drive strategic decisions and spark innovation. I thrive on turning data into actionable solutions.<br>
 <br>Let's connect and collaborate! 👇
 
-🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/skander-haffar) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skander.haffar@gmail.com) 
 
 💻 Tech Stack:
