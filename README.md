@@ -1,5 +1,5 @@
 # 👋 About Skander
-Hi, I'm Skander. An enthusiastic self-taught data analyst based in Budapest, Hungary. 📌<br>
+Hi, I'm Skander. An enthusiastic self-taught data analyst currently based in Budapest, Hungary. 📌<br>
 My vast interest in Technology kept me motivated into learning IT skills. 📘<br>
 Currently, I am further enhancing my skills in advanced SQL, Power BI and Python through portfolio projects.👨‍💻 <br>
 My professional background includes Financial Business Data Analysis📉<br>
