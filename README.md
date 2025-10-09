@@ -1,4 +1,4 @@
-# 👋 About Skander
+# 👋  <img width="241" height="234" alt="image" src="https://github.com/user-attachments/assets/1806f496-253d-4856-9a14-67d4bfd1d493" /> About Skander
 Hi, I'm Skander. An enthusiastic self-taught data analyst currently based in Budapest, Hungary. 📌<br>
 My vast interest in Technology kept me motivated into learning IT skills. 📘<br>
 Presently, I am further enhancing my skills in advanced SQL, Power BI development and Python for Data Science through portfolio projects.👨‍💻 <br>
