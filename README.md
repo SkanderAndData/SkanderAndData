@@ -1,7 +1,7 @@
 # 👋 Hi there, It's Skander!
 Hi, I'm Skander. An enthusiastic self-taught data analyst currently based in Budapest, Hungary. 📌<br>
-My vast interest in Technology kept me motivated into learning IT skills. 📘<br>
-Presently, I am further enhancing my skills in advanced SQL, Power BI development and Python for Data Science through portfolio projects.👨‍💻 <br>
+My vast interest in Technology kept me motivated into learning IT skills and AI-powered tools. 📘<br>
+Presently, I am further enhancing my skills in advanced SQL, Power BI development and adventuring into Python for Data Science through portfolio projects.👨‍💻 <br>
 My professional background includes a robust Financial and Business Data Analysis📉<br>
 <br>I am fascinated by uncovering insights that drive strategic decisions and spark innovation. I thrive on turning data into actionable solutions.<br>
 <br>Let's connect and collaborate! 👇
