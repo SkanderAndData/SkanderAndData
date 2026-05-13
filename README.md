@@ -1,10 +1,9 @@
 # 👋 Hi there, It's Skander!
-Hi there, I'm Skander. A Finance professional, on an enthusiastic self-taught journey in business data analysis, currently based in Budapest, Hungary. 📌<br>
-My vast interest in Technology kept me motivated into learning IT skills and AI tools and how I can utilize them in my work and processes. 📘<br>
-Presently, I am enhancing my skills in SQL, Power BI development and starting adventuring into Python for Data Analytics through portfolio projects.👨‍💻 <br>
-My professional background includes Financial & Business Analysis 📉<br>
-<br>I am fascinated by uncovering insights that drive strategic decisions, solve problems and spark innovation. I thrive on turning data into actionable solutions.<br>
-<br>Let's connect and collaborate! 👇
+Hi, I'm Skander — a Finance & Business Analysis professional based in Budapest, Hungary. 📌<br>
+With a background in financial analysis and a strong interest in data-driven decision-making and its tools - I am developing practical skills in Power BI, SQL, Gen AI tools and beginning to explore Python to build more efficient and insightful financial reporting. 👨‍💻<br>
+This profile showcases my portfolio projects, including financial analysis dashboards built in Power BI — developed to apply real-world financial data to professional-grade analytical tools.📉 <br>
+<br>I thrive on uncovering insights that drive strategic decisions and turn financial data into actionable business outcomes.<br>
+<br>Let's connect and collaborate. 👇
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/skander-haffar) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skander.haffar@gmail.com) 
