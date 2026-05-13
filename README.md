@@ -1,8 +1,8 @@
 # 👋 Hi there, It's Skander!
 Hi, I'm Skander — a Finance & Business Analysis professional based in Budapest, Hungary. 📌<br>
 <br>With a background in financial analysis and a strong interest in data-driven decision-making and its tools - I am developing practical skills in Power BI, SQL, Gen AI tools and beginning to explore Python to build more efficient and insightful financial reporting. 👨‍💻<br>
-<br>This profile showcases my portfolio projects, including financial analysis dashboards built in Power BI — developed to apply real-world financial data to professional-grade analytical tools.📉 <br>
-<br>I thrive on uncovering insights that drive strategic decisions and turn financial data into actionable business outcomes.<br>
+<br>This profile showcases my portfolio projects, including financial analysis dashboards built in Power BI — developed to apply real-world financial data to professional-grade analytical tools.📊 <br>
+<br>I thrive on uncovering insights that drive strategic decisions and turn financial data into actionable business outcomes.📈<br>
 <br>Let's connect and collaborate. 👇
 
 ## 🌐 Socials:
